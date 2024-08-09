@@ -1,5 +1,4 @@
 # INTRODUCTION TO LINUX
-![[Introduction to Linux.pdf]]
 ## What Is Linux?
 #### => Linux Is A Kernel.
 ## What Is Kernel?

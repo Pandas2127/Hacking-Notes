@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natnael</h1>
-<h3 align="center">I am Hacker</h3>
+<h3 align="center">I am Hacker & Prog</h3>
 
 - 🔭 I’m currently working on **Penetration Tester & Programmer**
 

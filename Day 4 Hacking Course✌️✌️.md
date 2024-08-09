@@ -1,5 +1,3 @@
-
-![[Further on Linux.pdf]]
 # Further On Linux
 ## Topics
 - [ ] LINUX FILE HIERARCHY

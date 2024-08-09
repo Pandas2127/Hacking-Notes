@@ -1,6 +1,3 @@
-![[Linux For User.pdf]]
-[[Day 2 Hacking Course✌️]]
-[[Day 1 Hacking Course🤓]]
 # LINUX FOR USER🤓
 ### Over View Of Kali Linux
 ##### Specifically i will going to show you with kali linux with gnome but you can have any kinda but Debian is recommended.
